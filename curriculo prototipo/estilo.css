@@ -1,0 +1,29 @@
+h1{
+    font-family: Arial;
+    font-size: large;
+    color: azure;
+}
+p{
+    font-family: 'Times New Roman';
+    font-size: small;
+    color: lightyellow;
+}
+h2{
+    font-family: Arial;
+    font-size: large;
+    color: azure;
+}
+body{
+    background-color: rgba(0, 1, 12, 0.555);
+}
+a{
+    color: lightgoldenrodyellow;
+    text-decoration: none;
+}
+a:visited{
+    color: lightgoldenrodyellow;
+    text-decoration: none;
+}
+hr{
+    text-align: left;
+}
